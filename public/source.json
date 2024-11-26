@@ -1,0 +1,86 @@
+[
+    {
+        "name": "Youtube Premium",
+        "price": 88,
+        "currency": "CNY",
+        "frequency": "年付",
+        "type": "合租"
+    },
+    {
+        "name": "百度网盘",
+        "price": 40,
+        "currency": "CNY",
+        "frequency": "年付",
+         "type": "合租"
+    },
+    {
+        "name": "Disney+",
+        "price": 40,
+        "currency": "CNY",
+        "frequency": "年付",
+         "type": "合租"
+    },
+    {
+        "name": "PikPak",
+        "price": 40,
+        "currency": "CNY",
+        "frequency": "年付",
+         "type": "合租"
+    },
+    {
+        "name": "Office 365",
+        "price": 45,
+        "currency": "CNY",
+        "frequency": "年付",
+         "type": "合租"
+    },
+    {
+        "name": "淘宝 88VIP",
+        "price": 88,
+        "currency": "CNY",
+        "frequency": "年付",
+        "type": "个人"
+    },
+    {
+        "name": "VPN Service",
+        "price": 12,
+        "currency": "CNY",
+        "frequency": "Monthly",
+        "type": "个人"
+    },
+    {
+        "name": "京东 Plus",
+        "price": 99,
+        "currency": "CNY",
+        "frequency": "年付",
+        "type": "个人"
+    },
+    {
+        "name": "Google One",
+        "price": 30,
+        "currency": "CNY",
+        "frequency": "年付",
+        "type": "合租"
+    },
+    {
+        "name": "iCloud Turkey",
+        "price": 35,
+        "currency": "CNY",
+        "frequency": "Quarterly",
+        "type": "合租"
+    },
+    {
+        "name": "iCloud China",
+        "price": 45,
+        "currency": "CNY",
+        "frequency": "Quarterly",
+        "type": "合租"
+    },
+    {
+        "name": "Setapp",
+        "price": 200,
+        "currency": "CNY",
+        "frequency": "年付",
+        "type": "合租"
+    }
+]
